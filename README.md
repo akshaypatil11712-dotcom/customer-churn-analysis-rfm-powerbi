@@ -31,51 +31,71 @@ Power BI (Dashboard & Visualization)
  
 🔹 Methods
 
-- Data Cleaning & Transformation
-- RFM Analysis (Recency, Frequency, Monetary)
+ Data Cleaning & Transformation
+ RFM Analysis (Recency, Frequency, Monetary)
+ 
 Customer Segmentation:
--Active
-- At Risk
-- Churned
-- KPI Calculation (Revenue, AOV, Frequency, etc.)
+ Active
+ At Risk
+ Churned
+ 
+KPI Calculation (Revenue, AOV, Frequency, etc.)
+
 🔹 Key Insights
-- High churn observed in customers inactive for 90+ days
-- A small group of customers contributes to majority of revenue
-- Customers with higher frequency generate more revenue
-- United Kingdom is the top revenue-generating country
-- Churned customers were previously high-value customers
+
+ High churn observed in customers inactive for 90+ days
+ A small group of customers contributes to majority of revenue
+ Customers with higher frequency generate more revenue
+ United Kingdom is the top revenue-generating country
+ Churned customers were previously high-value customers
+ 
 🔹 Dashboard / Output
+
 The dashboard includes:
--Overview Page (Business KPIs & trends)
--Segmentation Page (Customer distribution)
--Churn Risk Analysis (High-risk customers)
--Customer Behavior Analysis
--Product Performance Analysis
+
+Overview Page (Business KPIs & trends)
+Segmentation Page (Customer distribution)
+Churn Risk Analysis (High-risk customers)
+Customer Behavior Analysis
+Product Performance Analysis
+
 Features:
-- Interactive slicers (Segment, Country, Date)
-- Drill-through & tooltips
-- Dynamic filtering
+
+ Interactive slicers (Segment, Country, Date)
+ Drill-through & tooltips
+ Dynamic filtering
+ 
 🔹 How to Run this Project?
+
 Download the dataset
 Open Power BI (.pbix file)
 Load/refresh data
 Explore dashboard using slicers and filters
+
 🔹 Results & Conclusion
+
 This project helps businesses:
-- Identify at-risk customers early
-- Improve customer retention strategies
-- Understand customer behavior patterns
-- Make data-driven business decisions
+
+ Identify at-risk customers early
+ Improve customer retention strategies
+ Understand customer behavior patterns
+ Make data-driven business decisions
+ 
 Overall, the project focuses on generating actionable insights rather than just visualizations.
+
 🔹 Future Work
+
 Integrate Machine Learning models to predict customer churn more accurately
 Implement real-time data integration for live dashboard updates
 Improve segmentation using advanced clustering techniques (K-Means)
 Add customer lifetime value (CLV) analysis for deeper insights
 Enhance dashboard with advanced KPIs and automation
+
 🔹 Author
+
 Akshay Patil
 B.Sc. Computer Science | Aspiring Data Analyst
+
 🔹 Contact
 📧 Email: akshaypatil11712@example.com
 💼 LinkedIn: https://www.linkedin.com/in/akshay-patil2403/
