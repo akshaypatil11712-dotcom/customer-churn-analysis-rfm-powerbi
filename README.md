@@ -97,6 +97,10 @@ Akshay Patil
 B.Sc. Computer Science | Aspiring Data Analyst
 
 🔹 Contact
-📧 Email: akshaypatil11712@example.com
+
+📧 Email: akshaypatil11712@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/akshay-patil2403/
+
 💻 GitHub: https://github.com/akshaypatil111712-dotcom/
+
