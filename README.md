@@ -3,24 +3,34 @@ Analyzed customer behavior using RFM (Recency, Frequency, Monetary) to identify 
 🔹 Overview
 
  This project focuses on analyzing customer purchasing patterns to identify customers who are likely to stop purchasing. Using Power BI, I created an interactive dashboard that provides insights into customer segments, churn risk, product performance, and overall business trends.
+ 
 🔹 Problem Statement
-- Businesses often lose customers without understanding the reason behind churn.
+
+ Businesses often lose customers without understanding the reason behind churn.
 * The goal of this project is to:
-- Identify customers at risk of churn
-- Understand customer behavior
-- Help businesses take proactive retention actions
+  
+ Identify customers at risk of churn
+ Understand customer behavior
+ Help businesses take proactive retention actions
 🔹 Dataset
-- E-commerce transactional dataset
+
+ E-commerce transactional dataset
+ 
 Includes:
-- CustomerID
-- InvoiceDate
-- Quantity
-- UnitPrice
-- Country
-🔹 Tools and Technologies
-- Power BI (Dashboard & Visualization)
-- Excel/CSV (Dataset)
+
+ CustomerID
+ InvoiceDate
+ Quantity
+ UnitPrice
+ Country
+ 
+ 🔹 Tools and Technologies
+ 
+Power BI (Dashboard & Visualization)
+ Excel/CSV (Dataset)
+ 
 🔹 Methods
+
 - Data Cleaning & Transformation
 - RFM Analysis (Recency, Frequency, Monetary)
 Customer Segmentation:
