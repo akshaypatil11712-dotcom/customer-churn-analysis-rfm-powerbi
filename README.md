@@ -1,106 +1,132 @@
-Analyzed customer behavior using RFM (Recency, Frequency, Monetary) to identify churn risk and generate actionable insights for improving customer retention.
+# 📊 Customer Churn Analysis using RFM (Power BI)
 
-🔹 Overview
+---
 
- This project focuses on analyzing customer purchasing patterns to identify customers who are likely to stop purchasing. Using Power BI, I created an interactive dashboard that provides insights into customer segments, churn risk, product performance, and overall business trends.
- 
-🔹 Problem Statement
+## 🎯 Objective
+Analyze customer purchasing behavior using **RFM (Recency, Frequency, Monetary)** analysis to identify churn risk and generate actionable insights for improving customer retention.
 
- Businesses often lose customers without understanding the reason behind churn.
-* The goal of this project is to:
-  
- Identify customers at risk of churn
- Understand customer behavior
- Help businesses take proactive retention actions
-🔹 Dataset
+---
 
- E-commerce transactional dataset
- 
-Includes:
+## 🔍 Overview
+This project focuses on analyzing customer purchasing patterns to identify customers who are likely to stop purchasing.  
+Using **Power BI**, an interactive dashboard was developed to provide insights into customer segments, churn risk, product performance, and overall business trends.
 
- CustomerID
- InvoiceDate
- Quantity
- UnitPrice
- Country
- 
- 🔹 Tools and Technologies
- 
-Power BI (Dashboard & Visualization)
- Excel/CSV (Dataset)
- 
-🔹 Methods
+---
 
- Data Cleaning & Transformation
- RFM Analysis (Recency, Frequency, Monetary)
- 
-Customer Segmentation:
- Active
- At Risk
- Churned
- 
-KPI Calculation (Revenue, AOV, Frequency, etc.)
+## ❗ Problem Statement
+Businesses often lose customers without understanding the reasons behind churn.
 
-🔹 Key Insights
+### 🎯 Goals:
+- Identify customers at risk of churn  
+- Understand customer behavior  
+- Enable proactive retention strategies  
 
- High churn observed in customers inactive for 90+ days
- A small group of customers contributes to majority of revenue
- Customers with higher frequency generate more revenue
- United Kingdom is the top revenue-generating country
- Churned customers were previously high-value customers
- 
-🔹 Dashboard / Output
+---
 
-The dashboard includes:
+## 📁 Dataset
+**E-commerce transactional dataset**
 
-Overview Page (Business KPIs & trends)
-Segmentation Page (Customer distribution)
-Churn Risk Analysis (High-risk customers)
-Customer Behavior Analysis
-Product Performance Analysis
+### Includes:
+- CustomerID  
+- InvoiceDate  
+- Quantity  
+- UnitPrice  
+- Country  
 
-Features:
+---
 
- Interactive slicers (Segment, Country, Date)
- Drill-through & tooltips
- Dynamic filtering
- 
-🔹 How to Run this Project?
+## ⚙️ Tools & Technologies
+- 📊 Power BI (Dashboard & Visualization)  
+- 📄 Excel / CSV (Dataset)  
 
-Download the dataset
-Open Power BI (.pbix file)
-Load/refresh data
-Explore dashboard using slicers and filters
+---
 
-🔹 Results & Conclusion
+## 🧠 Methodology
 
-This project helps businesses:
+### 🔹 Data Processing
+- Data Cleaning & Transformation  
 
- Identify at-risk customers early
- Improve customer retention strategies
- Understand customer behavior patterns
- Make data-driven business decisions
- 
-Overall, the project focuses on generating actionable insights rather than just visualizations.
+### 🔹 RFM Analysis
+- **Recency** → Last purchase timing  
+- **Frequency** → Purchase count  
+- **Monetary** → Total spend  
 
-🔹 Future Work
+### 🔹 Customer Segmentation
+- 🟢 Active Customers  
+- 🟡 At Risk Customers  
+- 🔴 Churned Customers  
 
-Integrate Machine Learning models to predict customer churn more accurately
-Implement real-time data integration for live dashboard updates
-Improve segmentation using advanced clustering techniques (K-Means)
-Add customer lifetime value (CLV) analysis for deeper insights
-Enhance dashboard with advanced KPIs and automation
+### 🔹 KPI Metrics
+- Revenue  
+- Average Order Value (AOV)  
+- Purchase Frequency  
 
-🔹 Author
+---
 
-Akshay Patil
-B.Sc. Computer Science | Aspiring Data Analyst
+## 🔑 Key Insights
+- High churn observed in customers inactive for **90+ days**  
+- A small segment of customers contributes to the majority of revenue  
+- Customers with higher purchase frequency generate more revenue  
+- United Kingdom is the top revenue-generating country  
+- Many churned customers were previously high-value customers  
 
-🔹 Contact
+---
 
-📧 Email: akshaypatil11712@gmail.com
+## 📊 Dashboard Features
 
-💼 LinkedIn: https://www.linkedin.com/in/akshay-patil2403/
+### 📌 Pages Included:
+- Overview (KPIs & Trends)  
+- Customer Segmentation  
+- Churn Risk Analysis  
+- Customer Behavior Analysis  
+- Product Performance  
 
-💻 GitHub: https://github.com/akshaypatil111712-dotcom/
+### ⚡ Features:
+- Interactive slicers (Segment, Country, Date)  
+- Drill-through analysis  
+- Dynamic filtering & tooltips  
 
+---
+
+## 🚀 How to Run the Project
+1. Download the dataset  
+2. Open the Power BI file (.pbix)  
+3. Load or refresh the data  
+4. Explore the dashboard using filters and slicers  
+
+---
+
+## 📈 Results & Conclusion
+This project helps businesses to:
+- Identify at-risk customers early  
+- Improve customer retention strategies  
+- Understand purchasing behavior  
+- Make data-driven decisions  
+
+👉 The focus is on generating **actionable insights**, not just visualizations.
+
+---
+
+## 🔮 Future Enhancements
+- Integrate Machine Learning models for churn prediction  
+- Enable real-time data integration  
+- Apply advanced clustering (K-Means)  
+- Add Customer Lifetime Value (CLV) analysis  
+- Enhance dashboard with advanced KPIs  
+
+---
+
+## 👨‍💻 Author
+**Akshay Patil**  
+B.Sc. Computer Science | Aspiring Data Analyst  
+
+---
+
+## 📬 Contact
+📧 Email: akshaypatil11712@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/akshay-patil2403/  
+💻 GitHub: https://github.com/akshaypatil111712-dotcom  
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
